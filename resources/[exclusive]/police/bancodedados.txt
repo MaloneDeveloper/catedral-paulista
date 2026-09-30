@@ -1,0 +1,52 @@
+-- Copiando estrutura para tabela techv2.prison
+CREATE TABLE IF NOT EXISTS `prison` (
+  `id` int(11) NOT NULL AUTO_INCREMENT,
+  `police` varchar(255) DEFAULT '0',
+  `nuser_id` int(11) NOT NULL DEFAULT 0,
+  `services` int(11) NOT NULL DEFAULT 0,
+  `fines` int(20) NOT NULL DEFAULT 0,
+  `text` longtext DEFAULT NULL,
+  `date` text DEFAULT NULL,
+  PRIMARY KEY (`id`),
+  KEY `id` (`id`)
+) ENGINE=InnoDB AUTO_INCREMENT=1 DEFAULT CHARSET=latin1 COLLATE=LATIN1_SWEDISH_CI;
+
+-- Copiando estrutura para tabela techv2.warrants
+CREATE TABLE IF NOT EXISTS `warrants` (
+  `id` int(11) NOT NULL AUTO_INCREMENT,
+  `user_id` text DEFAULT NULL,
+  `identity` text DEFAULT NULL,
+  `status` text DEFAULT NULL,
+  `nidentity` text DEFAULT NULL,
+  `timeStamp` text DEFAULT NULL,
+  `reason` text DEFAULT NULL,
+  PRIMARY KEY (`id`),
+  KEY `portId` (`id`)
+) ENGINE=InnoDB AUTO_INCREMENT=62 DEFAULT CHARSET=latin1 COLLATE=latin1_swedish_ci;
+
+-- Copiando estrutura para tabela techv2.port
+CREATE TABLE IF NOT EXISTS `port` (
+  `portId` int(11) NOT NULL AUTO_INCREMENT,
+  `identity` longtext DEFAULT NULL,
+  `user_id` text DEFAULT NULL,
+  `portType` longtext DEFAULT NULL,
+  `serial` longtext DEFAULT NULL,
+  `nidentity` longtext DEFAULT NULL,
+  `exam` longtext DEFAULT NULL,
+  `date` text DEFAULT NULL,
+  PRIMARY KEY (`portId`),
+  KEY `portId` (`portId`)
+) ENGINE=InnoDB AUTO_INCREMENT=59 DEFAULT CHARSET=latin1 COLLATE=latin1_swedish_ci;
+  -- Copiando estrutura para tabela techv2.reports
+CREATE TABLE IF NOT EXISTS `reports` (
+  `id` int(11) NOT NULL AUTO_INCREMENT,
+  `victim_id` text DEFAULT NULL,
+  `police_name` text DEFAULT NULL,
+  `solved` text DEFAULT NULL,
+  `victim_name` text DEFAULT NULL,
+  `created_at` text DEFAULT NULL,
+  `victim_report` text DEFAULT NULL,
+  `updated_at` text DEFAULT NULL,
+  PRIMARY KEY (`id`),
+  KEY `portId` (`id`)
+) ENGINE=InnoDB AUTO_INCREMENT=60 DEFAULT CHARSET=latin1 COLLATE=latin1_swedish_ci;

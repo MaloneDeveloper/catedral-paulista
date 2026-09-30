@@ -1,0 +1,30 @@
+# Addons locais
+/resources/\[addons\]/
+
+# Pacotes de mapas e carros
+**/\[maps\]/
+**/\[mapas\]/
+**/\[cars\]/
+**/\[carros\]/
+**/\[vehicles\]/
+**/\[veiculos\]/
+**/maps/
+**/mapas/
+**/cars/
+**/carros/
+**/vehicles/
+**/veiculos/
+
+# Assets de mapas e modelos de veiculos
+*.ymap
+*.ybn
+*.yft
+
+# Preservar modelos de objetos de animacoes e armas
+!/resources/[[]exclusive]/emotes/stream/[[]Props]/**/*.yft
+!/resources/[[]system]/metas/weapons/*.yft
+
+# Pacotes compactados de assets dentro de stream
+**/stream/**/*.rar
+**/stream/**/*.zip
+**/stream/**/*.7z

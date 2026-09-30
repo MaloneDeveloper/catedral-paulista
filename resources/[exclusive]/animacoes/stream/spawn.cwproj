@@ -1,0 +1,64 @@
+<CodeWalkerProject>
+  <Name>New CodeWalker Project</Name>
+  <Version value="1" />
+  <YmapFilenames>
+    <Item>..\..\área de trabalho\spawnproject\bemvindomod.ymap</Item>
+    <Item>..\..\área de trabalho\spawnproject\hei_sm_20.ymap</Item>
+    <Item>..\..\área de trabalho\spawnproject\hei_sm_20_strm_0.ymap</Item>
+    <Item>..\..\área de trabalho\spawnproject\hei_sm_22_strm_2.ymap</Item>
+    <Item>..\..\área de trabalho\spawnproject\hei_sm_22_strm_3.ymap</Item>
+    <Item>..\..\área de trabalho\spawnproject\hei_sm_22_strm_4.ymap</Item>
+    <Item>..\..\área de trabalho\spawnproject\hei_sm_23_strm_0.ymap</Item>
+    <Item>..\..\área de trabalho\spawnproject\hei_sm_occl_00.ymap</Item>
+    <Item>..\..\área de trabalho\spawnproject\hei_sm_occl_02.ymap</Item>
+    <Item>..\..\área de trabalho\spawnproject\map1.ymap</Item>
+    <Item>..\..\área de trabalho\spawnproject\sm_22_strm_4.ymap</Item>
+    <Item>..\..\área de trabalho\spawnproject\sm_occl_00.ymap</Item>
+    <Item>..\..\área de trabalho\spawnproject\sm_occl_02.ymap</Item>
+  </YmapFilenames>
+  <YtypFilenames>
+    <Item>..\..\área de trabalho\spawnproject\animacao.ytyp</Item>
+    <Item>cabinetodas.ytyp</Item>
+    <Item>..\..\área de trabalho\spawnproject\cerca_pracav3.ytyp</Item>
+    <Item>..\..\área de trabalho\spawnproject\nt_pier_model.ytyp</Item>
+    <Item>..\..\área de trabalho\spawnproject\painel_arlison.ytyp</Item>
+  </YtypFilenames>
+  <YbnFilenames>
+    <Item>..\..\área de trabalho\spawnproject\hei_sm_22_0.ybn</Item>
+    <Item>..\..\área de trabalho\spawnproject\hei_sm_22_2.ybn</Item>
+    <Item>..\..\área de trabalho\spawnproject\hi@hei_sm_22_0.ybn</Item>
+    <Item>..\..\área de trabalho\spawnproject\hi@hei_sm_22_1.ybn</Item>
+  </YbnFilenames>
+  <YndFilenames />
+  <YnvFilenames />
+  <TrainsFilenames />
+  <ScenarioFilenames />
+  <AudioRelFilenames />
+  <YdrFilenames>
+    <Item>animacao.ydr</Item>
+    <Item>cabinetodas.ydr</Item>
+    <Item>cerca_pracav3.ydr</Item>
+    <Item>nt_pier_model.ydr</Item>
+    <Item>nt_pier2.ydr</Item>
+    <Item>painel_arlison.ydr</Item>
+    <Item>prop_walllight_ld_01b.ydr</Item>
+    <Item>props2_cassino.ydr</Item>
+    <Item>props3_cassino.ydr</Item>
+    <Item>props4_cassino.ydr</Item>
+    <Item>sm_22_building_bulbs.ydr</Item>
+    <Item>sm_22_cableforbulbs.ydr</Item>
+    <Item>sm_22_entsign2.ydr</Item>
+    <Item>sm_22_rc_canopy.ydr</Item>
+    <Item>sm_22_rcoaster_railings.ydr</Item>
+    <Item>sm_22_rcoaster1f.ydr</Item>
+  </YdrFilenames>
+  <YddFilenames>
+    <Item>sm_22_slod1b_children.ydd</Item>
+  </YddFilenames>
+  <YftFilenames />
+  <YtdFilenames>
+    <Item>animacao.ytd</Item>
+    <Item>cabinep_txt.ytd</Item>
+    <Item>letreiro_txt.ytd</Item>
+  </YtdFilenames>
+</CodeWalkerProject>

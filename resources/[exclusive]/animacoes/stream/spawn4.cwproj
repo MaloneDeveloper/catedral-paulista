@@ -1,0 +1,83 @@
+<CodeWalkerProject>
+  <Name>New CodeWalker Project</Name>
+  <Version value="1" />
+  <YmapFilenames>
+    <Item>bemvindomod.ymap</Item>
+    <Item>hei_sm_20.ymap</Item>
+    <Item>hei_sm_20_strm_0.ymap</Item>
+    <Item>hei_sm_22_strm_2.ymap</Item>
+    <Item>hei_sm_22_strm_3.ymap</Item>
+    <Item>hei_sm_22_strm_4.ymap</Item>
+    <Item>hei_sm_23_strm_0.ymap</Item>
+    <Item>hei_sm_occl_00.ymap</Item>
+    <Item>hei_sm_occl_02.ymap</Item>
+    <Item>map1.ymap</Item>
+    <Item>sm_22_strm_4.ymap</Item>
+    <Item>sm_occl_00.ymap</Item>
+    <Item>sm_occl_02.ymap</Item>
+  </YmapFilenames>
+  <YtypFilenames>
+    <Item>animacao.ytyp</Item>
+    <Item>barbearia.ytyp</Item>
+    <Item>cassino.ytyp</Item>
+    <Item>cerca_pracav3.ytyp</Item>
+    <Item>exterior.ytyp</Item>
+    <Item>lojinha.ytyp</Item>
+    <Item>nt_pier_model.ytyp</Item>
+    <Item>painel_arlison.ytyp</Item>
+    <Item>pvp.ytyp</Item>
+    <Item>roupas.ytyp</Item>
+    <Item>tattoos.ytyp</Item>
+    <Item>tattos.ytyp</Item>
+    <Item>vip.ytyp</Item>
+  </YtypFilenames>
+  <YbnFilenames>
+    <Item>hei_sm_22_0.ybn</Item>
+    <Item>hei_sm_22_2.ybn</Item>
+    <Item>hi@hei_sm_22_0.ybn</Item>
+    <Item>hi@hei_sm_22_1.ybn</Item>
+  </YbnFilenames>
+  <YndFilenames />
+  <YnvFilenames />
+  <TrainsFilenames />
+  <ScenarioFilenames />
+  <AudioRelFilenames />
+  <YdrFilenames>
+    <Item>animacao.ydr</Item>
+    <Item>barbearia.ydr</Item>
+    <Item>cerca_pracav3.ydr</Item>
+    <Item>exterior.ydr</Item>
+    <Item>lojinha.ydr</Item>
+    <Item>nt_pier_model.ydr</Item>
+    <Item>nt_pier2.ydr</Item>
+    <Item>prop_pier_kiosk_01.ydr</Item>
+    <Item>prop_pier_kiosk_02.ydr</Item>
+    <Item>prop_pier_kiosk_03.ydr</Item>
+    <Item>prop_walllight_ld_01b.ydr</Item>
+    <Item>props2_cassino.ydr</Item>
+    <Item>props3_cassino.ydr</Item>
+    <Item>props4_cassino.ydr</Item>
+    <Item>pvp.ydr</Item>
+    <Item>roupas.ydr</Item>
+    <Item>sm_22_building_bulbs.ydr</Item>
+    <Item>sm_22_cableforbulbs.ydr</Item>
+    <Item>sm_22_entsign2.ydr</Item>
+    <Item>sm_22_rc_canopy.ydr</Item>
+    <Item>sm_22_rcoaster_railings.ydr</Item>
+    <Item>sm_22_rcoaster1f.ydr</Item>
+    <Item>sm_22_sm1_22_glue_01.ydr</Item>
+    <Item>sm_22_sm1_22_glue_01a.ydr</Item>
+    <Item>tattos.ydr</Item>
+    <Item>vip.ydr</Item>
+  </YdrFilenames>
+  <YddFilenames>
+    <Item>sm_22_slod1b_children.ydd</Item>
+  </YddFilenames>
+  <YftFilenames />
+  <YtdFilenames>
+    <Item>animacao.ytd</Item>
+    <Item>letreiro_txt.ytd</Item>
+    <Item>tdstxt_txt.ytd</Item>
+    <Item>viptxt_txt.ytd</Item>
+  </YtdFilenames>
+</CodeWalkerProject>
